@@ -11196,9 +11196,8 @@ body {
           transform: scale(3);
 }
 
-.banner {
+.banner-lg {
   background-image: url(../img/lg/b-and-w-profile-photo.jpg);
-  width: 100%;
   height: 800px;
   background-repeat: no-repeat;
   background-position: top center;
@@ -11207,7 +11206,7 @@ body {
 }
 
 @media (max-width: 991.98px) {
-  .banner {
+  .banner-lg {
     height: 500px;
   }
 }
@@ -11307,7 +11306,7 @@ body {
   }
 }
 
-.works--back:hover {
+m .works--back:hover {
   text-decoration: none;
   -webkit-transition: .5s;
   transition: .5s;
