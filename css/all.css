@@ -11307,7 +11307,7 @@ body {
   }
 }
 
-m .works--back:hover {
+.works--back:hover {
   text-decoration: none;
   -webkit-transition: .5s;
   transition: .5s;
